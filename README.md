@@ -5,7 +5,7 @@
 <h3>💻 Computer Science Engineer</h3>  
 <h3>✨ Interested in Vibe Coding / Prompt Engineering</h3>  
 <h3>🎯 Passionate about coding, problem-solving, and DSA</h3>  
-<h3>📧 patilsharvil03@gmail.com</h3>  
+<h3>📬 Contact me via: <a href="mailto:patilsharvil03@gmail.com">patilsharvil03@gmail.com</a></h3>  
 <h3>🎵 Fun fact: I play the flute 🎶</h3>  
 
 ---
