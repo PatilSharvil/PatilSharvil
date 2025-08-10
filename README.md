@@ -2,10 +2,11 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+there+👋,+I'm+Sharvil&repeat=false" />
 
-💻 Computer Science Engineer  
-✨ Interested in **Vibe Coding / Prompt Engineering**  
-🎯 Passionate about coding and problem-solving  
-🎵 Fun fact: I play the flute 🎶  
+<h3>💻 Computer Science Engineer</h3>  
+<h3>✨ Interested in Vibe Coding / Prompt Engineering</h3>  
+<h3>🎯 Passionate about coding, problem-solving, and DSA</h3>  
+<h3>📧 patilsharvil03@gmail.com</h3>  
+<h3>🎵 Fun fact: I play the flute 🎶</h3>  
 
 ---
 
