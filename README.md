@@ -1,11 +1,11 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+there+👋,+I'm+Sharvil&repeat=false" />
+# <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C2FF&center=true&vCenter=true&width=700&lines=🏴‍☠️+On+a+quest+for+the+All+Blue+of+Tech+🚢🤖;Hi+there+👋,+I'm+Sharvil&repeat=false" />
 
 <h3>💻 Computer Science Engineer</h3>  
-<h3>✨ Interested in Vibe Coding, Prompt Engineering, AI-ML, and GenAI</h3>  
+<h3>✨ Interested in Vibe Coding, Prompt Engineering, AI, ML, and GenAI</h3>  
 <h3>🎯 Passionate about coding, problem-solving, and DSA</h3>  
-<h3>📬 Contact me via: <a href="mailto:patilsharvil03@gmail.com">patilsharvil03@gmail.com</a></h3>  
+<h3>📬 You can contact me via: <a href="mailto:patilsharvil03@gmail.com">patilsharvil03@gmail.com</a></h3>  
 <h3>🎵 Fun fact: I play the flute 🎶</h3>  
 
 ---
@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -36,6 +37,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
