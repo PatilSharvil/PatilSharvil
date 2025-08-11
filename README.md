@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C2FF&center=true&vCenter=true&width=700&lines=🏴‍☠️+On+a+quest+for+the+All+Blue+of+Tech+🚢🤖;Hi+there+👋,+I'm+Sharvil&repeat=false" />
+# <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C2FF&center=true&vCenter=true&width=700&lines=On+a+quest+for+the+All+Blue+of+Tech+🚢🤖;Hi+there+👋,+I'm+Sharvil&repeat=false" />
 
 <h3>💻 Computer Science Engineer</h3>  
 <h3>✨ Interested in Vibe Coding, Prompt Engineering, AI, ML, and GenAI</h3>  
