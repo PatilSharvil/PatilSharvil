@@ -3,7 +3,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C2FF&center=true&vCenter=true&width=700&lines=On+a+quest+for+the+All+Blue+of+Tech+🚢🤖;Hi+there+👋,+I'm+Sharvil&repeat=false" />
 
 <h3>💻 Computer Science Engineer</h3>  
-<h3>✨ Interested in Vibe Coding, Prompt Engineering, AI, ML, and GenAI</h3>  
+<h3>✨ Interested in AI, ML, GenAI and Backend</h3>  
 <h3>🎯 Passionate about coding, problem-solving, and DSA</h3>  
 <h3>📬 You can contact me via: <a href="mailto:patilsharvil03@gmail.com">patilsharvil03@gmail.com</a></h3>  
 <h3>🎵 Fun fact: I play the flute 🎶</h3>  
