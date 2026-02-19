@@ -67,7 +67,7 @@ Qwen Code CLI • Antigravity
 ---
 
 
-## 🚀 Projects
+## 🚀 Main Projects
 
 ---
 
