@@ -21,43 +21,6 @@ I enjoy understanding how systems work internally, crafting clean architectures,
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=github" width="56"/> Projects
-
----
-
-### DebugArena
-<p>
-An AI-integrated coding and gaming platform designed to enhance developer productivity through intelligent code generation and validation.  
-Focuses on combining automation with interactive workflows to streamline experimentation, debugging, and learning.
-</p>
-
-🔗 **Repository:**  
-https://github.com/PatilSharvil/DebugArena
-
----
-
-### AI Algorithm Visualizer
-<p>
-An interactive visualization tool that breaks down algorithms into structured, step-by-step flows for intuitive understanding.  
-Built to help learners and developers grasp complex logic, execution patterns, and performance behavior.
-</p>
-
-🔗 **Repository:**  
-https://github.com/PatilSharvil/AI-Algorithm-Visualizer
-
----
-
-### Algorithm Chatbot
-<p>
-A conversational AI assistant created to explain algorithms, problem-solving strategies, and coding concepts.  
-Enables users to learn through natural language interactions, simplifying difficult technical topics.
-</p>
-
-🔗 **Repository:**  
-https://github.com/PatilSharvil/Algorithm-Chatbot
-
----
-
 ---
 
 ## ⚙️ Tech Stack
@@ -100,6 +63,44 @@ Dev-C++, IntelliJ IDEA, Oracle SQL, API Testing
 
 **AI / Vibe Coding Tools:**  
 Qwen Code CLI • Antigravity
+
+---
+
+
+## 🚀 Projects
+
+---
+
+### DebugArena
+<p>
+An AI-integrated coding and gaming platform designed to enhance developer productivity through intelligent code generation and validation.  
+Focuses on combining automation with interactive workflows to streamline experimentation, debugging, and learning.
+</p>
+
+🔗 **Repository:**  
+https://github.com/PatilSharvil/DebugArena
+
+---
+
+### AI Algorithm Visualizer
+<p>
+An interactive visualization tool that breaks down algorithms into structured, step-by-step flows for intuitive understanding.  
+Built to help learners and developers grasp complex logic, execution patterns, and performance behavior.
+</p>
+
+🔗 **Repository:**  
+https://github.com/PatilSharvil/AI-Algorithm-Visualizer
+
+---
+
+### Algorithm Chatbot
+<p>
+A conversational AI assistant created to explain algorithms, problem-solving strategies, and coding concepts.  
+Enables users to learn through natural language interactions, simplifying difficult technical topics.
+</p>
+
+🔗 **Repository:**  
+https://github.com/PatilSharvil/Algorithm-Chatbot
 
 ---
 
