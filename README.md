@@ -1,53 +1,88 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sharvil Patil</h1>
+<h3 align="center">Software Engineer | ML & Backend Enthusiast</h3>
 
-# <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C2FF&center=true&vCenter=true&width=700&lines=On+a+quest+for+the+All+Blue+of+Tech+🚢🤖;Hi+there+👋,+I'm+Sharvil&repeat=false" />
-
-<h3>💻 Computer Science Engineer</h3>  
-<h3>✨ Interested in AI, ML, GenAI and Backend</h3>  
-<h3>🎯 Passionate about coding, problem-solving, and DSA</h3>  
-<h3>📬 You can contact me via: <a href="mailto:patilsharvil03@gmail.com">patilsharvil03@gmail.com</a></h3>  
-<h3>🎵 Fun fact: I play the flute 🎶</h3>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+Learner;Backend+%26+System+Design+Explorer" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## 🧑‍💻 About Me
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+I am a Software Engineering student deeply passionate about building efficient, scalable, and intelligent systems. My interests span across **full-stack development**, **backend engineering**, and **machine learning**. I enjoy exploring how software works under the hood, designing clean architectures, and continuously learning modern technologies.
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**  
-![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+I believe in combining **strong fundamentals**, **manual coding skills**, and **modern AI/vibe-coding tools** to build impactful projects.
 
 ---
 
-## 🌐 Connect with Me
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sharvil_Patil/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/patilsharvil03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvil-patil-561a00292/)
+## ⚙️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,sql" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🛠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring" />
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,mongodb,mysql,postman,idea" />
+</p>
+
+**Also Experienced With:**  
+Dev-C++, IntelliJ IDEA, Oracle SQL, API Testing, CLI-based AI tools (Qwen Code CLI, Antigravity)
 
 ---
 
-💡 *Turning coffee into code and ideas into reality.*
+## 🚀 Projects
 
-</div>
+🔹 Building full-stack and backend-focused applications  
+🔹 Exploring AI-integrated developer tools  
+🔹 Designing performance-oriented systems  
+
+*(Pinned repositories below 👇)*
+
+---
+
+## 📚 Currently Learning
+
+- 🌱 Spring Framework  
+- 🤖 Machine Learning  
+- 🧠 System Design & Architecture  
+- ⚡ Advanced Backend Patterns  
+
+---
+
+## 🏆 Coding Platforms
+
+<p>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-Coder-brightgreen?style=for-the-badge&logo=hackerrank" />
+  </a>
+</p>
+
+---
+
+## 🎯 Fun Facts
+
+✨ I enjoy blending manual coding with AI/vibe-coding tools  
+🎵 Flute player & lifelong learner  
+🚀 Obsessed with building cool tech projects  
+🧩 Love understanding how systems really work  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
