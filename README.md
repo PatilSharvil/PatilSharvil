@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a Software Engineering student passionate about designing and building **scalable**, **efficient**, and **intelligent systems**. My interests span across **full-stack development**, **backend engineering**, and **machine learning**.
+I am a Software Engineering student passionate about designing and building **scalable**, **efficient**, and **intelligent systems**. My interests span across **full-stack development**, **backend engineering**, and **machine learning**
 
 I enjoy understanding how systems work internally, crafting clean architectures, and continuously expanding my technical skillset. I believe in blending **strong fundamentals**, **manual coding expertise**, and **modern AI-assisted development tools** to create impactful solutions.
 
