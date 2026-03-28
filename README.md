@@ -6,7 +6,6 @@
 </p>
 
 ---
----
 
 <p align="center">
   <b><i>"Deeper the Darkness gets the Brighter the light shines when a ray of Hope arrives."</i></b>
